@@ -1,0 +1,5 @@
+# Book Core Dependencies
+fastapi>=0.111.0
+openai>=1.30.0
+pandas>=2.2.0
+langchain>=0.2.0
