@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. The dog was not amused by the fox's behavior, 
+not amused at all! "Why did you jump over me?" asked the dog. The fox simply smiled and 
+said nothing. This is a short test file for the Word Frequency Analyser tool.
